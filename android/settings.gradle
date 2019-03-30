@@ -1,0 +1,3 @@
+rootProject.name = 'employee_rewards_1796'
+
+include ':app'
